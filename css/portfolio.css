@@ -1,0 +1,70 @@
+.container{
+    background-color:rgb(98, 163, 195);
+    
+}
+nav{
+    background-color: rgb(8, 9, 10);
+}
+
+nav ul li{
+    display: inline-block;
+    list-style-type:none;
+    color:white;
+    font-size: 20px;
+    text-align-last: left;
+    padding: 20px 20px;
+}
+#home{
+    color:black;
+    font-size: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-top: 70px;
+    text-align: center;
+    min-height: 400px;
+}
+#about{
+    display:flex;
+    color:black;
+    background-color: rgb(95, 153, 182);
+    min-height: 300px;
+    font-size: 20px;
+    padding:90px 80px 20px 100px ;
+       
+}
+.image{
+    width: 250px;
+    height:250px;
+    border-radius: 50%;
+    padding-right: 80px;
+
+}
+#skills{
+    background-color: rgb(123, 196, 209);
+    color: black;
+    font-size: 20px;
+    padding: 30px 0 30px 10px;
+
+}
+#work{
+    display: flex;
+ background-color: rgb(98, 163, 195);   
+ min-height: 350px;
+ text-align: center;
+ 
+ 
+}
+.galary{
+    width: 150px;
+    height: 150px;
+    padding-right: 50px ;
+}
+table,th,td{
+    border: 1px solid;
+    text-align: center;
+}
+#contact{
+    background-color:;
+    color: black;
+    padding:40px;
+
+}
